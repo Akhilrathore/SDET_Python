@@ -1,7 +1,7 @@
 print("Write a Python program to calculate the area of a circle given its radius using the formula area=π×r^2 ( Take "
       "pie as 3.14)")
 r = float(input("Enter Circle radius: "))
-print("Circle area: ", r ** 2 * 3.14)
+print("Circle area: ", 3.14 * (r ** 2))
 
 print("Create a program that takes two numbers as input and prints whether the first number is greater than, "
       "less than, or equal to the second number.")

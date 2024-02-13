@@ -14,11 +14,12 @@ forTab = '\t'
 forBell = '\a'
 
 print(not is_married)
+# Not is a unary operator
+
 
 # Numbers
 # binary 0,1. to store/assigning
 a = 0b1010  # a=10
-
 # Octa number
 b = 0o171
 print(b)
